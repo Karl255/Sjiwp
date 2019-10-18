@@ -2,10 +2,18 @@ p, h1, h2, h3, h4, h5, h5, li {
 	font-family: sans-serif, Helvetica;
 }
 
+h1 {
+	font-size: 28px;
+}
+
 ul {
 	list-style-type: "» ";
 }
 
 li > a > img {
 	vertical-align: middle;
+}
+
+.author {
+	font-size: 18px;
 }
