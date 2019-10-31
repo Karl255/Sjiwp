@@ -10,8 +10,11 @@ ul {
 	list-style-type: "» ";
 }
 
-li > a > img {
+li.lv > a > img {
 	vertical-align: middle;
+	width: 16px;
+	alt: "zip download";
+	margin-left: 4px;
 }
 
 .author {
