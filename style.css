@@ -20,3 +20,9 @@ li.lv > a > img {
 .author {
 	font-size: 18px;
 }
+
+div.inline > * {
+	margin-right: 15px;
+	display: inline;
+	vertical-align: middle;
+}
