@@ -1,3 +1,6 @@
+# Repository moved
+**This repository moved to [https://github.com/Karl255/karlo-tsrb](https://github.com/Karl255/karlo-tsrb).**
+
 # Riješene LV iz predmeta Sjiwp.
 Ovdje se nalaze sve laboratorijske vježbe iz predmeta Sjiwp, riješene na točan način (vjerojatno jesu, ali ne mogu to garantirati).
 
